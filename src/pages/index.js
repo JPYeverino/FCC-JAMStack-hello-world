@@ -7,6 +7,7 @@ const IndexPage = () => (
     <p>Welcome to your new Gatsby site.</p>
     <p>My name is Pablo Yeverino.</p>
     <p>I am a newbie coder learning MEARN Stack Web development.</p>
+    <p>Now I am trying to figure how Gatsby works.</p>
     <Link to="/page-2/">Go to page 2</Link>
   </div>
 )
